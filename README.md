@@ -1,1 +1,1 @@
-# gongbot_public
+# This is a bot used internally at my job. Gong is a call recording software that logs client calls. Gong implemented a feature that uses AI to generate a call brief and next steps. This bot will webscrape gong for the current day and log all of these call briefs and next steps in our internal customer service platform. 
